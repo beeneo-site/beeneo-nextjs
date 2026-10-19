@@ -38,7 +38,7 @@ const translations: Record<Locale, Record<string, any>> = {
     hero: {
       badge: 'Powered by LEAF + LEAI Methodology',
       title: 'Autonomous AI CFO, HR & Lean Governance',
-      subtitle: 'Eliminate foreign SaaS costs. Automate accounting, payroll & compliance for Turkish VSEs, Technopark R&D companies, and engineering consultancies.',
+      subtitle: 'Eliminate foreign SaaS costs. Automate accounting, payroll & compliance for VSEs, Technopark R&D companies, and engineering consultancies.',
       cta: 'Start Free Trial',
       ctaSecondary: 'Watch Demo',
       stats: [
@@ -96,7 +96,7 @@ const translations: Record<Locale, Record<string, any>> = {
     sureneoProduct: {
       title: 'sureNEO LOS Finance',
       subtitle: 'Your autonomous AI-native Micro-ERP for finance, HR & governance.',
-      heroDesc: 'Built on LEAF (Lean Enterprise Architecture Framework) and LEAI (Agentic AI) methodology. Designed specifically for Turkish VSEs, TGB companies, and engineering consultancies.',
+      heroDesc: 'Built on LEAF (Lean Enterprise Architecture Framework) and LEAI (Agentic AI) methodology. Designed specifically for VSEs, TGB companies, and engineering consultancies.',
       modules: [
         { title: 'LOS Finance', desc: 'Autonomous accounting, GİB integration, smart banking reconciliation, SMMM audit dashboard, and one-click dossier builder.' },
         { title: 'HR & Talent', desc: 'AI-powered job descriptions, CV parsing with fit-scoring, training matrix, global talent onboarding with delilim.com integration.' },

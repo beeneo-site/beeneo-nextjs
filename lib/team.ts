@@ -99,7 +99,7 @@ export const locations: OfficeLocation[] = [
   {
     city: 'Düsseldorf',
     label: { tr: 'Almanya (AB & UK)', en: 'Germany (EU & UK)', de: 'Deutschland (EU & UK)' },
-    lines: ['uneo.tech UG (haftungsbeschränkt)', 'Kalkumer Str. 127', '40468 Düsseldorf'],
+    lines: ['Kontaktbüro beeNEO Deutschland', 'Kalkumer Str. 127', '40468 Düsseldorf'],
   },
 ]
 

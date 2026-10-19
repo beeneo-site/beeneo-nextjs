@@ -21,7 +21,7 @@ export default function LandingPage() {
             </div>
             <h1 className="font-display text-4xl lg:text-6xl font-bold tracking-tight leading-[1.1] mb-6">
               {t.hero.title}
-              <span className="block text-primary mt-1">for Turkish VSEs</span>
+              <span className="block text-primary mt-1">for VSEs</span>
             </h1>
             <p className="text-lg lg:text-xl text-muted-foreground max-w-2xl mb-8 leading-relaxed">
               {t.hero.subtitle}
