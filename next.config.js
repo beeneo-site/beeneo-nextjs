@@ -2,6 +2,7 @@
 const path = require('path');
 
 const nextConfig = {
+  serverExternalPackages: ['@prisma/client', 'prisma'],
   distDir: process.env.NEXT_DIST_DIR || '.next',
   output: process.env.NEXT_OUTPUT_MODE,
   poweredByHeader: false,
@@ -43,4 +44,3 @@ if (fs.existsSync(userConfigPath)) {
 }
 
 module.exports = nextConfig;
-
