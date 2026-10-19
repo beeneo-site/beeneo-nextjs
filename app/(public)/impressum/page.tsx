@@ -18,14 +18,14 @@ export default function ImpressumPage() {
   ]
 
   const sectionDE: { label: string; value: string }[] = [
-    { label: i.companyLabel, value: 'uneo.tech UG (haftungsbeschränkt)' },
+    { label: i.companyLabel, value: 'Kontaktbüro beeNEO Deutschland' },
     { label: i.mdLabel, value: 'Ayhan Önal' },
     { label: i.addressLabel, value: 'Kalkumer Str. 127, 40468 Düsseldorf, Deutschland' },
     { label: i.tradeRegLabel, value: 'Amtsgericht Düsseldorf HRB 94313' },
     { label: i.taxLabel, value: 'Steuer-Nr. 105/5847/1611 · USt-IdNr. DE345739004' },
-    { label: i.emailLabel, value: 'info@uneo.tech' },
+    { label: i.emailLabel, value: 'info@beeneo.biz' },
     { label: i.phoneLabel, value: '+49 211 9629 160-11' },
-    { label: i.webLabel, value: 'www.uneo.tech' },
+    { label: i.webLabel, value: 'www.beeneo.biz' },
   ]
 
   return (
