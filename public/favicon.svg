@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="hexClip">
+      <path d="M128 20 L220 70 L220 170 L128 220 L36 170 L36 70 Z"/>
+    </clipPath>
+  </defs>
+  <rect width="256" height="256" fill="#0A1628"/>
+  <path d="M128 20 L220 70 L220 170 L128 220 L36 170 L36 70 Z" fill="#0A1628" stroke="#00D4AA" stroke-width="3"/>
+  <g opacity="0.15">
+    <path d="M80 90 L100 90 M100 90 L100 110 M100 100 L120 100" stroke="#00D4AA" stroke-width="1.5" fill="none"/>
+    <path d="M176 90 L156 90 M156 90 L156 110 M156 100 L136 100" stroke="#00D4AA" stroke-width="1.5" fill="none"/>
+    <circle cx="100" cy="90" r="2" fill="#00D4AA"/>
+    <circle cx="100" cy="110" r="2" fill="#00D4AA"/>
+    <circle cx="156" cy="90" r="2" fill="#00D4AA"/>
+    <circle cx="156" cy="110" r="2" fill="#00D4AA"/>
+  </g>
+  <text x="85" y="170" font-family="Arial, sans-serif" font-size="100" font-weight="bold" fill="#00D4AA">sN</text>
+</svg>

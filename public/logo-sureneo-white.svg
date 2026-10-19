@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48">
+  <defs>
+    <clipPath id="sHexW"><path d="M24 4 L42 14 L42 34 L24 44 L6 34 L6 14 Z"/></clipPath>
+  </defs>
+  <path d="M24 4 L42 14 L42 34 L24 44 L6 34 L6 14 Z" fill="#0A1628" stroke="#00D4AA" stroke-width="1.5"/>
+  <text x="14" y="31" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#00D4AA">sN</text>
+  <text x="50" y="26" font-family="Arial,sans-serif" font-size="22" font-weight="800" fill="#ffffff">sure<tspan fill="#00D4AA">NEO</tspan></text>
+  <text x="50" y="40" font-family="Arial,sans-serif" font-size="9" fill="#cfd4dd" letter-spacing="0.5">LOS Finance · LEAF + LEAI</text>
+</svg>
