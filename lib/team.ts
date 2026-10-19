@@ -92,9 +92,9 @@ export const locations: OfficeLocation[] = [
     lines: ['Güzeltepe Mh. Pembegül Sk. No:7/8', '34680 Üsküdar / İstanbul', 'Çengelköy'],
   },
   {
-    city: 'Kocaeli',
+    city: 'İstanbul',
     label: { tr: 'Ar-Ge Merkezi (Bilişim Vadisi)', en: 'R&D Center (Bilişim Vadisi)', de: 'F&E-Zentrum (Bilişim Vadisi)' },
-    lines: ['Muallimköy Mh. Deniz Cd. No:143/13', '2B Blok 411', '41400 Gebze / Kocaeli'],
+    lines: ['Ahmet Yesevi Mh. Kerem Sokak, No: 9', '41400 Gebze / 34903 • Pendik / İstanbul'],
   },
   {
     city: 'Düsseldorf',
