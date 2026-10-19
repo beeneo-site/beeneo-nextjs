@@ -93,7 +93,7 @@ export const locations: OfficeLocation[] = [
   },
   {
     city: 'İstanbul',
-    label: { tr: 'Ar-Ge Merkezi (Bilişim Vadisi)', en: 'R&D Center (Bilişim Vadisi)', de: 'F&E-Zentrum (Bilişim Vadisi)' },
+    label: { tr: 'Ar-Ge Merkezi (Teknopol)', en: 'R&D Center (Teknopol)', de: 'F&E-Zentrum (Teknopol)' },
     lines: ['Ahmet Yesevi Mh. Kerem Sokak, No: 9', '41400 Gebze / 34903 • Pendik / İstanbul'],
   },
   {
